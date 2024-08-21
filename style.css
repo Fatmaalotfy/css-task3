@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+.bar{
+    position:fixed;
+    background-color: rgb(165, 80, 31);
+}
+a.bar{
+    color:black;
+}
+.BR{
+    background-image:url(https://www.w3schools.com/w3images/architect.jpg);
+    background-repeat: no-repeat;
+    background:100% 100%;
+}
